@@ -1,2 +1,0 @@
-# venkateshbathula
-Technical blog
