@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-=======
 _site
 .sass-cache
 .jekyll-metadata
@@ -11,6 +5,7 @@ yarn.lock
 Gemfile.lock
 package-lock.json
 node_modules/
+.jekyll-cache/
 
 ### macOS ###
 *.DS_Store
@@ -38,4 +33,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
->>>>>>> dc74f062fa4fe5dfe50665e426cc31d25832f6dd
